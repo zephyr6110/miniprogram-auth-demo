@@ -1,0 +1,4 @@
+<!--user.wxml-->
+<view class="container log-list">
+  <text class="log-item">用户名：{{ userInfo.username }}</text>
+</view>
